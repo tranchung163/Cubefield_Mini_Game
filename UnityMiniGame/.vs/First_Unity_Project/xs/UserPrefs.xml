@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B90801D0-09D4-A008-470F-253AC13F98A7}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/sphereMovement.cs">
+    <Files>
+      <File FileName="Assets/player_movement.cs" Line="29" Column="91" />
+      <File FileName="Assets/player_collision.cs" Line="14" Column="44" />
+      <File FileName="Assets/followPlayer.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="First_Unity_Project" expanded="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6ab2218d-8aa7-4170-b7a5-13e5d760b343" />
+</Properties>

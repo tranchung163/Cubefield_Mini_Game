@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{5B527006-AB15-E3F4-1BEA-3EE840DDA327}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9bf60d4f-a5d3-4224-9592-2c2513677d18" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Score.cs" Line="15" Column="1" />
+      <File FileName="Assets/GameManager.cs" Line="13" Column="35" />
+      <File FileName="Assets/Scripts/player_collision.cs" Line="10" Column="9" />
+      <File FileName="Assets/Scripts/playerMovement.cs" Line="30" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityMiniGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="GameManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
